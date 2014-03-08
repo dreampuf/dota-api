@@ -7,7 +7,6 @@ The little bit of code behind [matchurls](https://rjackson.me/tools/matchurls). 
 Requires
 
 * node.js v0.10
-* MongoDB
 
 
 Configuration
